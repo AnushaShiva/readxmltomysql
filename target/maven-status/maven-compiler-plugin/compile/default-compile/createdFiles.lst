@@ -1,0 +1,16 @@
+com\example\demo\config\ClientConfig.class
+com\example\demo\processors\UserProcessor1.class
+com\example\demo\processors\UserProcessor2.class
+com\example\demo\model\User.class
+META-INF\spring-configuration-metadata.json
+com\example\demo\config\BatchConfig$2$1.class
+com\example\demo\config\BatchConfig$2.class
+com\example\demo\listners\Stepitemexecutionlistener.class
+com\example\demo\config\BatchConfig$1.class
+com\example\demo\config\BatchConfig$RecordPreparedStatementSetter.class
+com\example\demo\controller\BatchController.class
+com\example\demo\service\S3Operation.class
+com\example\demo\config\BatchConfig$3.class
+com\example\demo\model\AWS.class
+com\example\demo\config\BatchConfig.class
+com\example\demo\ReadxmltomysqlApplication.class
