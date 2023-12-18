@@ -27,7 +27,7 @@ public class BatchController {
 	
 	
 	@Autowired
-	@Qualifier("job")
+	//@Qualifier("job")
 	private Job job;
 	
 	
