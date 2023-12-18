@@ -37,7 +37,7 @@ public class BatchController {
 		JobParameters jobParameters = new JobParametersBuilder()
 				.toJobParameters();
         log.info("Job is Starting with this name : {}",job.getName());
-		  return"Job ended with status : "+jobLauncher.run(job , jobParameters).getStatus().getBatchStatus()+" at "+DateTime.now();
+		  return"Job ended with status : "+jobLauncher.run(job , jobParameters).getStatus().getBatchStatus()+  " at "+DateTime.now();
 		
 	}
 	
