@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ReadxmltomysqlApplication {
 
 	public static void main(String[] args) {
+         System.out.println();
 		SpringApplication.run(ReadxmltomysqlApplication.class, args);
 	}
 
